@@ -11,6 +11,6 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 code snippet?
 ```
 button test:
-[Posts](/posts/){: .btn}
+[Posts](/posts/){: .btn .btn--info}
 
 {% include figure popup=true image_path="/assets/images/welcome_head.jpg" %}
