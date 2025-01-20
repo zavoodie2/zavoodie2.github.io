@@ -12,4 +12,5 @@ code snippet?
 ```
 button test:
 [Posts](/posts/){: .btn}
-<button src="/posts/">
+
+{% include figure popup=true image_path="/assets/images/welcome_head.jpg" %}
