@@ -12,3 +12,4 @@ code snippet?
 ```
 button test:
 [Posts](/posts/){: .btn}
+<button src="/posts/">
