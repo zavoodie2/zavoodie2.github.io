@@ -11,4 +11,4 @@ Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusm
 code snippet?
 ```
 button test:
-[Posts](/_pages/about.md){: .btn}
+[Posts](/posts/){: .btn}
